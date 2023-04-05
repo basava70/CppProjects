@@ -12,9 +12,13 @@
 #ignore all .swp files
 **/*.swp
 
+**/*.json
 
 #ignore all Threedy files
 **/Threedy*
+
+#ignore .cache
+**/.cache/
 
 #ignore DownloadedProjects
 DownloadedProjects/
