@@ -1,0 +1,22 @@
+#git ignore file for CppProjects
+
+#ignore all .out files recursively
+**/*.out
+
+#ignore all .log files
+**/*.log
+
+#ignore all .aux files
+**/*.aux
+
+#ignore all .swp files
+**/*.swp
+
+#ignore all .json files
+**/*.json
+
+#ignore all Threedy files
+**/Threedy*
+
+#ignore DownloadedProjects
+DownloadedProjects/
