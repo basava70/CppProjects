@@ -12,8 +12,6 @@
 #ignore all .swp files
 **/*.swp
 
-#ignore all .json files
-**/*.json
 
 #ignore all Threedy files
 **/Threedy*

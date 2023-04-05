@@ -1,0 +1,11 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "Threedy.cpp"
+    ],
+    "directory": "/home/seshu/Desktop/Documents/GitHubProjects/CppProjects/Threedy",
+    "file": "/home/seshu/Desktop/Documents/GitHubProjects/CppProjects/Threedy/Threedy.cpp"
+  }
+]
