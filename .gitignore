@@ -22,3 +22,6 @@
 
 #ignore DownloadedProjects
 DownloadedProjects/
+
+#ignore build folders
+**/build/
