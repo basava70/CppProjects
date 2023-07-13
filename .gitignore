@@ -25,3 +25,13 @@ DownloadedProjects/
 
 #ignore build folders
 **/build/
+
+#ignore cmake files
+**/*.cmake
+
+#ignore all run and cmake files
+**/*run*
+**/*Makefile
+**/*CMakeCache.txt
+**/*CMakeFiles/*
+
