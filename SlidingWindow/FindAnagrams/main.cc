@@ -45,10 +45,11 @@ public:
 int main(int argc, char *argv[]) {
 
   std::string s, p;
-  std::cout << "Enter the full string" << std::endl;
-  std::cin >> s;
-  std::cout << "Enter the pattern" << std::endl;
-  std::cin >> p;
+  // std::cout << "Enter the full string" << std::endl;
+  // std::cin >> s;
+  // std::cout << "Enter the pattern" << std::endl;
+  // std::cin >> p;
+  s = "cbaebabacd", p = "abc";
 
   std::vector<int> answer;
 
