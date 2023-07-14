@@ -6,7 +6,6 @@
 #include <iostream>
 #include <iterator>
 #include <list>
-#include <variant>
 
 class Graph {
   std::list<int> *adj_lists;
