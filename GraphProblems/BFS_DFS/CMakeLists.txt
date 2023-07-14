@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22.1)
+project("run_bfs_dfs")
+add_executable(run_bfs_dfs main.cc)
